@@ -3,9 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.davidliu</groupId>
-  <artifactId>webrtc</artifactId>
+  <artifactId>webrtc-custom-builds</artifactId>
   <version>1.0.0</version>
 
+  <packaging>aar</packaging>
   <name>Custom WebRTC Build</name>
 
 </project>
